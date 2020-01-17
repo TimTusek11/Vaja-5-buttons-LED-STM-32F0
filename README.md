@@ -12,7 +12,7 @@
 
 - Tipka T5: Pin PB14
 
-- Tipka T6: Pin PB15.
+- Tipka T6: Pin PB15
 
 - zelena LED: PC9
 
